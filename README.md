@@ -1,0 +1,2 @@
+# dummycoreapp
+A dummy app
